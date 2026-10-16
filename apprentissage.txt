@@ -1,0 +1,46 @@
+
+<!-- HEADER_SIMPLE  -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+    <style>
+</style>
+</head>
+<body>
+<header class="header-isen">
+  <div class="header-container">
+    <!-- Logo -->
+    <a href="/" class="header-logo">
+      <img src="https://isen-ouest.fr/wp-content/uploads/2024/07/15/logo-isen-couleur.png" alt="ISEN Ouest">
+    </a>
+
+    <!-- Navbar -->
+    <nav class="header-nav">
+      <ul>
+        <li><a href="#">Liens à venir</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+
+<!-- PLUGGIN TEXT_IMG
+Ingénieur par l’apprentissage
+
+Le cycle ingénieur correspond aux trois dernières années de la formation d’ingénieur. Sous statut apprenti, ces trois années sont réalisées en apprentissage au sein d’une entreprise d’accueil.
+
+Tout au long de cette formation, vous alternez les périodes à l’école et les périodes en entreprises en montant progressivement en compétence. Ces périodes durent environ 6 semaines lors des deux premières années, puis 6 mois la dernière année. Ces rythmes d’alternance permettent aux étudiants de travailler avec des entreprises sur tout le territoire français.
+
+img/schema-cycle-inge.jpg
+-->
+
+
+
+<!-- FOOTER_SIMPLE -->
+
+
+</body>
+</html>
